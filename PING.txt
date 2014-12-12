@@ -1,0 +1,4 @@
+wait 3 sec
+aa 81 04 15 02 bb
+aa 80 21 12 bb
+
